@@ -2,13 +2,13 @@
 Learning the basics of system design and studying various real world systems with a focus on Interviews.
 
 ## Top Resources
-- [Grokiing System Design - educative.io](https://www.educative.io/courses/grokking-the-system-design-interview)
+- [Grokiing the System Design Interview - educative.io](https://www.educative.io/courses/grokking-the-system-design-interview)
 - [System Design Primer - donnemartin](https://github.com/donnemartin/system-design-primer)
 - [Gaurav Sen - YouTube](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
 - [Tech Dummies - Youtube](https://www.youtube.com/playlist?list=PLkQkbY7JNJuBoTemzQfjym0sqbOHt5fnV)
 - [System Design Interview - checkcheckzz](https://github.com/checkcheckzz/system-design-interview)
 
-### Grokking System Design Notes
+### 'Grokking the System Design Interview' Notes
 - [Short Notes](https://github.com/lei-hsia/grokking-system-design)
 - [Course Materials](https://github.com/Satyam6623165/Grokking-the-System-Design)
 
