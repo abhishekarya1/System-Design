@@ -7,6 +7,7 @@ Learning the basics of system design and studying various real world systems wit
 - [Gaurav Sen - YouTube](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
 - [Tech Dummies - Youtube](https://www.youtube.com/playlist?list=PLkQkbY7JNJuBoTemzQfjym0sqbOHt5fnV)
 - [System Design Interview - checkcheckzz](https://github.com/checkcheckzz/system-design-interview)
+- [High Scalability Blog](http://highscalability.com/all-time-favorites/)
 
 ### 'Grokking the System Design Interview' Notes
 - [Short Notes](https://github.com/lei-hsia/grokking-system-design)
