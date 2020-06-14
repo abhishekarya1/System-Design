@@ -28,5 +28,8 @@ Learning the basics of system design and studying various real world systems wit
 ## Books
 - [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems - Martin Kleppmann](https://g.co/kgs/Z4BEmn)
 
+## Draw
+- [diagrams.net](https://app.diagrams.net/)
+
 ## Some more lists
 - [Zero1code](https://www.zero1code.info/interview/system-design)
