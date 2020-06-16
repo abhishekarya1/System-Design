@@ -25,8 +25,8 @@
 - **Security:** Encrypt the link with HTTPS (443), allow only certain ports, install firewalls, etc...  
 
 ### Extras
-- Storage drives speeds: PATA/IDE < SATA < SAS < SSD (SATA) < SSD (SAS) 
-  - PATA: Parellel ATA
-  - SATA: Serial ATA (typically 7.2 rpm)
-  - SAS: Serial Attached SCSI (SCSI Stands for Small Computer System Interface, typically pronounced as "scuzzy")(upto 15k rpm)
-  - SSD: Solid-State Drive
+- **Storage drives speeds:** PATA/IDE < SATA < SAS < SSD (SATA) < SSD (SAS) 
+  - **PATA:** Parellel ATA
+  - **SATA:** Serial ATA (typically 7.2 rpm)
+  - **SAS:** Serial Attached SCSI (SCSI Stands for Small Computer System Interface, typically pronounced as "scuzzy")(upto 15k rpm)
+  - **SSD:** Solid-State Drive
