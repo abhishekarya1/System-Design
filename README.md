@@ -33,3 +33,4 @@ Learning the basics of system design and studying various real world systems wit
 
 ## Some more lists
 - [Zero1code](https://www.zero1code.info/interview/system-design)
+- [Awesome Scalability](http://awesome-scalability.com/)
