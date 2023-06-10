@@ -9,6 +9,7 @@
 ### Template/Cheatsheets
 - https://leetcode.com/discuss/career/229177/My-System-Design-Template
 - https://leetcode.com/discuss/general-discussion/2340482/system-design-template-that-landed-me-to-google
+- https://leetcode.com/discuss/general-discussion/901324/My-System-Design-Interview-Checklist-A-Gateway-to-FAANGs
 
 ## Mocks
 - [Grokking the System Design Interview - educative.io](https://www.educative.io/courses/grokking-the-system-design-interview) (PAID) but [this](https://github.com/Satyam6623165/Grokking-the-System-Design)
@@ -16,7 +17,7 @@
 - [System Design Interview - checkcheckzz](https://github.com/checkcheckzz/system-design-interview)
 - [SYSTEM DESIGN PREPARATION - shashank88](https://github.com/shashank88/system_design)
 - [Crack the System Design Interview - TianPan.co](https://tianpan.co/notes/2016-02-13-crack-the-system-design-interview/)
-
+- https://leetcode.com/discuss/interview-question/1140451/helpful-list-of-leetcode-posts-on-system-design-at-facebook-google-amazon-uber-microsoft
 ## Books
 - [Acing the System Design Interview - Zhiyong Tan](https://g.co/kgs/1kKLZq)
 - [System Design Interview: An Insider's Guide - Alex Xu](https://g.co/kgs/XYmX5h) - Vol. 1 & 2
