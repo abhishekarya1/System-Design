@@ -5,6 +5,7 @@
 - [System Design Primer - donnemartin's repo](https://github.com/donnemartin/system-design-primer)
 - [Gaurav Sen - YouTube](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
 - [ByteByteGo](https://bytebytego.com) - [Newsletter](https://blog.bytebytego.com) (Mostly PAID) and [YouTube Channel](https://www.youtube.com/@ByteByteGo)
+- [Jordan has no life - YouTube](https://www.youtube.com/@jordanhasnolife5163)
 
 ### Template/Cheatsheets
 - https://leetcode.com/discuss/career/229177/My-System-Design-Template
