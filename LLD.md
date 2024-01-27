@@ -2,6 +2,7 @@
 
 ## Basics
 - https://roadmap.sh/software-design-architecture
+- Concepts && Coding LLD Course - [Udemy](https://www.udemy.com/course/lld-from-basics-to-advanced/)
 
 ## Design Patterns
 - https://java-design-patterns.com
