@@ -18,6 +18,7 @@
 - [System Design Interview - checkcheckzz](https://github.com/checkcheckzz/system-design-interview)
 - [SYSTEM DESIGN PREPARATION - shashank88](https://github.com/shashank88/system_design)
 - [Crack the System Design Interview - TianPan.co](https://tianpan.co/notes/2016-02-13-crack-the-system-design-interview/)
+- [Hello Interview](https://www.hellointerview.com/learn)
 - https://leetcode.com/discuss/interview-question/1140451/helpful-list-of-leetcode-posts-on-system-design-at-facebook-google-amazon-uber-microsoft
 ## Books
 - [Acing the System Design Interview - Zhiyong Tan](https://g.co/kgs/1kKLZq)
