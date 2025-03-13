@@ -20,6 +20,7 @@
 - [Crack the System Design Interview - TianPan.co](https://tianpan.co/notes/2016-02-13-crack-the-system-design-interview/)
 - [Hello Interview](https://www.hellointerview.com/learn)
 - https://leetcode.com/discuss/interview-question/1140451/helpful-list-of-leetcode-posts-on-system-design-at-facebook-google-amazon-uber-microsoft
+- 45 system design curated questions - https://www.reddit.com/r/leetcode/s/itki0YF6v8
 ## Books
 - [Acing the System Design Interview - Zhiyong Tan](https://g.co/kgs/1kKLZq)
 - [System Design Interview: An Insider's Guide - Alex Xu](https://g.co/kgs/XYmX5h) - Vol. 1 & 2
