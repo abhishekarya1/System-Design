@@ -11,3 +11,6 @@
 
 ## UML
 - [freeCodeCamp - UML Diagrams Full Course - YouTube](https://youtu.be/WnMQ8HlmeXc) (Class, Use Case, and Sequence diagrams only)
+
+## Mocks
+- https://github.com/ashishps1/awesome-low-level-design
