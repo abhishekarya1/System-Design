@@ -2,6 +2,10 @@ remote_theme: jekyll/minima
 
 title: System Design Resources
 
+author:
+  name: Abhishek Arya
+  email: abhishekarya102@gmail.com
+
 minima:
   skin: auto
   nav_pages:
@@ -9,3 +13,4 @@ minima:
     - LLD.md
 
 plugins:
+  - jekyll-seo-tag
