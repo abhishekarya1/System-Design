@@ -1,6 +1,6 @@
-theme: minima
+remote_theme: "jekyll/minima@c6e74bb"
 minima:
-  skin: dark
+  skin: auto
   nav_pages:
     - HLD.md
     - LLD.md
