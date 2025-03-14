@@ -1,3 +1,7 @@
 theme: minima
+
 minima:
   skin: dark
+  nav_pages:
+    - HLD.md
+    - LLD.md
