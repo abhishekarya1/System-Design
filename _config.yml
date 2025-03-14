@@ -1,6 +1,12 @@
-remote_theme: "jekyll/minima@c6e74bb"
+remote_theme: jekyll/minima
+
+title: System Design Resources
+author:
+  name: Abhishek Arya
+  email: abhishekarya102@gmail.com
+
 minima:
-  skin: auto
+  skin: dark
   nav_pages:
     - HLD.md
     - LLD.md
