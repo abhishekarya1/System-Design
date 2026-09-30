@@ -1,15 +1,18 @@
-Learning the basics of system design and studying various real world systems with a focus on Interviews.
+Designing systems at scale and studying various real world systems with a focus on Interviews.
 
 ➡️ [HLD Resources](/HLD.md)
 
 ➡️ [LLD Resources](/LLD.md)
 
-## Discussions
-- [System Design - LeetCode](https://leetcode.com/discuss/interview-question/system-design)
+➡️ [Behavioral Resources](/BEH.md)
 
-## Advanced
-- https://github.com/resumejob/system-design-algorithms
-- [Grokking the Advanced System Design Interview - Design Gurus](https://www.designgurus.io/course/grokking-the-advanced-system-design-interview)
+## Discussions/Forums
+- [LeetCode Discuss](https://leetcode.com/discuss/interview-question/system-design)
+- [Taro Discussion](https://www.jointaro.com/questions/?sort=great_discussion)
+- Reddit - [r/leetcode](https://www.reddit.com/r/leetcode/), [r/softwarearchitecture](https://www.reddit.com/r/softwarearchitecture/), etc.
 
-## HQ Article List
+## General Reading
 - https://github.com/binhnguyennus/awesome-scalability
+- https://highscalability.com
+
+p.s. these lists are curated resources that helped me study. This is by no means exhaustive and does not have sponsored links.
