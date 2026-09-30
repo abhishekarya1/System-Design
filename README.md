@@ -1,10 +1,8 @@
-Designing systems at scale and studying various real world systems with a focus on Interviews.
+A collection of resources for learning to design systems at scale by studying various real-world systems with a focus on interviews.
 
-➡️ [High-Level Design Resources](/HLD.md)
+➡️ [High-Level Design](/HLD.md)
 
-➡️ [Low-Level Design Resources](/LLD.md)
-
-➡️ [Behavioral Resources](/BEH.md)
+➡️ [Low-Level Design](/LLD.md)
 
 ## Discussions/Forums
 - [LeetCode Discuss](https://leetcode.com/discuss/interview-question/system-design)

@@ -2,7 +2,7 @@
 
 ## Basics
 - [System Design Primer - donnemartin's repo](https://github.com/donnemartin/system-design-primer) (nice collection of topics to start out)
-- [Hello Interview](https://www.hellointerview.com/learn/system-design/in-a-hurry/introduction)
+- [Hello Interview - HLD](https://www.hellointerview.com/learn/system-design/in-a-hurry/introduction)
 - [A good video on Capacity Planning and Estimation](https://youtu.be/-frNQkRz_IU)
 
 ## Videos
@@ -25,9 +25,12 @@ these consume a of time and are not worth it imo; just read/watch what you need 
 - https://interviewing.io/guides/system-design-interview
 - Good collection of problems to practice - https://systemdesign.io
 
-## Distributed Systems & Software Architecture
+## Distributed Systems / Software Architecture / Microservices
 its not really recommended to deep dive into these if your focus is just interviews
 - [A Distributed Systems Reading List](https://ferd.ca/a-distributed-systems-reading-list.html)
+- [Fundamentals of Software Architecture](https://learning.oreilly.com/library/view/fundamentals-of-software/9781492043447/)
+- [Building Microservices](https://learning.oreilly.com/library/view/building-microservices-2nd/9781492034018/)
+- [Microservices Patterns](https://learning.oreilly.com/library/view/microservices-patterns/9781617294549/)
 
 ## Further Reading
 - [High Scalability's OG Blog](http://highscalability.squarespace.com/all-time-favorites/)
