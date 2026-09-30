@@ -14,6 +14,9 @@
 - [UML Notations](https://youtu.be/WnMQ8HlmeXc) - Class, Use Case, and Sequence diagrams only (totally optional tbh)
 - Good collection of questions - https://github.com/ashishps1/awesome-low-level-design
 
+## Concurrency
+- https://github.com/Devinterview-io/concurrency-interview-questions
+
 ## Code
 you don't really need these unless you're pedantic
 - [Effective Java](https://learning.oreilly.com/library/view/effective-java-3rd/9780134686097/)
