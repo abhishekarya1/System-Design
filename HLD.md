@@ -1,31 +1,33 @@
-# HLD Resources
+# High-Level Design
 
 ## Basics
-- https://roadmap.sh/system-design (track topics using this)
-- [System Design Primer - donnemartin's repo](https://github.com/donnemartin/system-design-primer)
-- [Gaurav Sen - YouTube](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
-- [ByteByteGo](https://bytebytego.com) - [Newsletter](https://blog.bytebytego.com) (Mostly PAID) and [YouTube Channel](https://www.youtube.com/@ByteByteGo)
-- [Jordan has no life - YouTube](https://www.youtube.com/@jordanhasnolife5163)
+- [System Design Primer - donnemartin's repo](https://github.com/donnemartin/system-design-primer) (nice collection of topics to start out)
+- [Hello Interview](https://www.hellointerview.com/learn/system-design/in-a-hurry/introduction)
+- [A good video on Capacity Planning and Estimation](https://youtu.be/-frNQkRz_IU)
 
-### Template/Cheatsheets
-- https://leetcode.com/discuss/career/229177/My-System-Design-Template
-- https://leetcode.com/discuss/general-discussion/2340482/system-design-template-that-landed-me-to-google
-- https://leetcode.com/discuss/general-discussion/901324/My-System-Design-Interview-Checklist-A-Gateway-to-FAANGs
-
-## Mocks
-- [Grokking the System Design Interview - educative.io](https://www.educative.io/courses/grokking-the-system-design-interview) (PAID) but [this](https://github.com/Satyam6623165/Grokking-the-System-Design)
-- [Tech Dummies - Youtube](https://www.youtube.com/playlist?list=PLkQkbY7JNJuBoTemzQfjym0sqbOHt5fnV)
-- [System Design Interview - checkcheckzz](https://github.com/checkcheckzz/system-design-interview)
-- [SYSTEM DESIGN PREPARATION - shashank88](https://github.com/shashank88/system_design)
-- [Crack the System Design Interview - TianPan.co](https://tianpan.co/notes/2016-02-13-crack-the-system-design-interview/)
-- [Hello Interview](https://www.hellointerview.com/learn)
-- https://leetcode.com/discuss/interview-question/1140451/helpful-list-of-leetcode-posts-on-system-design-at-facebook-google-amazon-uber-microsoft
-- 45 system design curated questions - https://www.reddit.com/r/leetcode/s/itki0YF6v8
+## Videos
+- [ByteByteGo](https://www.youtube.com/@ByteByteGo)
+- [Jordan has no life](https://www.youtube.com/@jordanhasnolife5163) (mostly just the DDIA book in video form)
 
 ## Books
-- [Acing the System Design Interview - Zhiyong Tan](https://g.co/kgs/1kKLZq)
+- [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems - Martin Kleppmann](https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781098119058/) (aka DDIA)
 - [System Design Interview: An Insider's Guide - Alex Xu](https://g.co/kgs/XYmX5h) - Vol. 1 & 2
-- [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems - Martin Kleppmann](https://g.co/kgs/Z4BEmn)
+- [Acing the System Design Interview - Zhiyong Tan](https://learning.oreilly.com/library/view/acing-the-system/9781633439108/)
+
+## Advanced
+- https://github.com/resumejob/system-design-algorithms
+- Some great articles here: https://www.mydistributed.systems
+
+## Others
+these consume a of time and are not worth it imo; just read/watch what you need to know and skip the rest
+- YouTube Channels - [Arpit Bhayani](https://www.youtube.com/@AsliEngineering), [Tech Dummies](https://www.youtube.com/@TechDummiesNarendraL/), [Gaurav Sen](https://www.youtube.com/@gkcs), [CodeKarle](https://www.youtube.com/@codeKarle)
+- https://www.interviewhandbook.io/backend
+- https://interviewing.io/guides/system-design-interview
+- Good collection of problems to practice - https://systemdesign.io
+
+## Distributed Systems & Software Architecture
+its not really recommended to deep dive into these if your focus is just interviews
+- [A Distributed Systems Reading List](https://ferd.ca/a-distributed-systems-reading-list.html)
 
 ## Further Reading
-- [High Scalability Blog](http://highscalability.com/all-time-favorites)
+- [High Scalability's OG Blog](http://highscalability.squarespace.com/all-time-favorites/)
