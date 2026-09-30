@@ -14,5 +14,6 @@ Designing systems at scale and studying various real world systems with a focus 
 ## General Reading
 - https://github.com/binhnguyennus/awesome-scalability
 - https://highscalability.com
+- https://blog.bytebytego.com
 
 p.s. these lists are curated resources that helped me study. This is by no means exhaustive and does not have sponsored links.
