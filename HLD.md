@@ -31,3 +31,6 @@ its not really recommended to deep dive into these if your focus is just intervi
 
 ## Further Reading
 - [High Scalability's OG Blog](http://highscalability.squarespace.com/all-time-favorites/)
+- https://highscalability.com
+- https://github.com/binhnguyennus/awesome-scalability
+- https://blog.bytebytego.com
